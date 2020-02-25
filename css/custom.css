@@ -1,0 +1,35 @@
+/* font-family: 'Dancing Script', cursive; */
+.hero-logo p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    color: white;
+    font-weight: bold;
+}
+
+#logo p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+/* Trademark Symbol  */
+.sup {
+    vertical-align: super;
+    font-size: 30px;
+}
+
+.sup-small {
+    vertical-align: super;
+    font-size: 15px;
+}
+
+.sup-xsmall {
+    vertical-align: super;
+    font-size: 12px;
+}
+
+.rotating {
+    font-weight: lighter;
+}
